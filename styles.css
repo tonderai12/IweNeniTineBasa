@@ -1,0 +1,29 @@
+body {
+    background-color: rosybrown;
+    margin: 0px;
+}
+
+.Title {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10em;
+}
+
+.nav-link-wrapper {
+    display: flex;
+    padding: 30px;
+}
+
+.nav-bar {
+    padding: 10px;
+    background-color: white;
+}
+
+.left-side {
+    display: flex;
+}
+
+.information {
+    text-align: center;
+    padding: 20px;
+}
